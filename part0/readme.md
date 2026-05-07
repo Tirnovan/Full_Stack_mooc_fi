@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Exercise 0.4
+=======
+>>>>>>> refs/remotes/origin/main
 ```mermaid
     sequenceDiagram
     participant browser
